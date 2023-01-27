@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'dog_collector.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dog-collector',
+        'NAME': 'dog_collector',
     }
 }
 
